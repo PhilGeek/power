@@ -21,5 +21,6 @@ Written for [Conference in Honour of Professor Charles Travis][], 29th June to 1
 * power.tex
 * README.markdown
 * preamble/---a git submodule containing the LaTeX preamble
+* talk/powertalk.tex---a version for presentation
 
 [Conference in Honour of Professor Charles Travis]: http://www.uea.ac.uk/phi/research/conferences/travisconf
